@@ -1,0 +1,16 @@
+# Development Tools
+pip  # The package installer for Python
+autopep8  # Automatically formats Python code to conform to the PEP 8 style guide
+
+# LangChain Ecosystem
+langchain_core  # The core LangChain framework for building LLM applications
+langchain-google-genai  # Provides LangChain integrations for the Gemini API
+
+# Image and Video Processing
+Pillow  # Fork of the PIL library, used for opening, manipulating, and saving images
+youtube_transcript_api  # Fetches transcripts from YouTube videos
+
+# Google AI and Utilities
+google-generativeai  # The official Google Generative AI library for Python
+python-dotenv  # Loads environment variables from .env files
+pathlib  # Provides an object-oriented way to interact with the file system
