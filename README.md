@@ -4,7 +4,9 @@
 ---
 
 ## **Project Description**  
-This Python script automates YouTube video summarization by extracting transcripts and generating concise summaries using Google’s Gemini Pro AI.  
+This Python script automates YouTube video summarization by extracting transcripts and generating concise summaries using Google’s Gemini Pro AI.
+
+---
 
 ### **Key Features**  
 - **Transcript Extraction**: Retrieves subtitles or closed captions from YouTube videos.  
